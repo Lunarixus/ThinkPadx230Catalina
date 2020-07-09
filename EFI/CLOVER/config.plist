@@ -261,6 +261,8 @@
 		<string>LastBootedVolume</string>
 		<key>DisableCloverHotkeys</key>
 		<false/>
+		<key>Fast</key>
+		<true/>
 		<key>Legacy</key>
 		<string>PBR</string>
 		<key>NeverDoRecovery</key>
@@ -275,8 +277,6 @@
 		<false/>
 		<key>StrictHibernate</key>
 		<false/>
-		<key>Timeout</key>
-		<integer>5</integer>
 	</dict>
 	<key>BootGraphics</key>
 	<dict>
